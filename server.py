@@ -12,7 +12,7 @@ import datetime
 # 🔹 CONFIGURAÇÃO DA PORTA SERIAL
 # ===============================
 PORTA_SERIAL = 'COM3'
-BAUD = 9600
+BAUD = 12400
 
 # ===============================
 # 🔹 INICIALIZAÇÃO DO FLASK
